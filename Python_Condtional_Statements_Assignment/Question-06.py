@@ -1,0 +1,9 @@
+'''
+which number is greater
+'''
+num1=int(input("Enter first number:"))
+num2=int(input("Enter second number:"))
+if num1 > num2:
+        print("Greater number is:",num1)
+else:
+        print("Greater number is:",num2)
